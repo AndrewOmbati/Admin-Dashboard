@@ -1,4 +1,4 @@
-# Admin-Dashboard2
+# Admin-Dashboard
 # CampusHub Admin Dashboard
 
 A fully functional, responsive admin dashboard for managing campus events, clubs, users, and communications. Built with modern web technologies and designed for optimal user experience.
